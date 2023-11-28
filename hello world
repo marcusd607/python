@@ -1,0 +1,2 @@
+# hello world prints a string
+print("Hello, World")
